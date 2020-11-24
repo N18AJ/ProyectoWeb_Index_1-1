@@ -4,7 +4,7 @@
 ## Autor: Nerea Álvarez Justel
 
 #### Fecha inicio: 2020/11/22
-#### Fecha fin: 
+#### Fecha fin: 2020/11/23
 
 ```
 Descripción: 
@@ -14,3 +14,6 @@ Realización de index para la navegación de las paginas de los alumnos a travé
 **FRONT END**
 - Html.
 - CSS.
+
+## Licencia
+[MIT](https://choosealicense.com/licenses/mit/)
